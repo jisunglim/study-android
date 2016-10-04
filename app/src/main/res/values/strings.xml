@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">GeoQuiz</string>
+
+
+  <!-- Quiz Activity -->
+  <string name="question_oceans">Pacific ocean is larger than Southern ocean.</string>
+  <string name="question_mideast">The Suez Canal is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez.</string>
+  <string name="question_africas">In particular, the Nile is the primary water source of Egypt and Sudan.</string>
+  <string name="question_americas">The Amazon River in South America is the largest river by discharge of water in the world, and according to some experts, the longest in length.</string>
+  <string name="question_asias">Lake Baikal is the world\'s deepest and oldest lake.</string>
+  <string name="correct_toast">Correct!</string>
+  <string name="incorrect_toast">Incorrect!</string>
+  <string name="prev_button">Button to previous question.</string>
+  <string name="next_button">Button to next question.</string>
+
+  <!-- Commons -->
+  <string name="true_text">TRUE</string>
+  <string name="false_text">FALSE</string>
+
+</resources>
