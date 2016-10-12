@@ -1,5 +1,7 @@
 package io.jaylim.android.geoquiz;
 
+import static android.app.Activity.RESULT_OK;
+
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.app.Activity;
@@ -130,7 +132,7 @@ public class CheatActivity extends AppCompatActivity {
     private void setAnswerShownResult() {
         Log.i(TAG, "setAnswerShownResult()");
         // Create an empty intent
-        Intent data =new Intent();
+        Intent data = new Intent();
         // Set extra data (isAnswerShown)
         data.putExtra(EXTRA_ANSWER_SHOWN, true);
         // Set result
